@@ -5,6 +5,11 @@ A 100% Static Form Builder powered by JavaScript and HTML
 When you want to design a web form but are limited in your resources/skills
 
 ## Use
+
+### Online
+Visit [URL] to start building forms right now!
+
+### Offline
 Just download the self-contained HTML file and open it in your browser
 * no libraries
 * no plugins
